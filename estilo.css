@@ -1,0 +1,24 @@
+
+  .imagenRedonda{
+      display: block;
+      margin: auto;
+      margin-top: 150px;
+      width: 200px;
+      height: 200px;
+      border-radius: 150px;
+      border: 5px solid white;
+     
+  }
+  .parrafo{
+      text-align: center;
+      font-family: 'Satisfy', cursive;
+      color: white;
+  }
+  .fondo{
+     
+      background-image: url("foto.jpg");
+      background-position: center center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      
+  }
